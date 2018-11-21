@@ -1,0 +1,17 @@
+.navigation {
+    width: 100%;
+}
+
+.navigation a {
+    display: inline-block;
+    text-align: center;
+    padding: 1.4em 2em;
+    margin: 0;
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+.navigation a:hover{
+    color: black;
+}
